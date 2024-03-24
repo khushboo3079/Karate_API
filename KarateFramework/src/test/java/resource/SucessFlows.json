@@ -1,0 +1,8 @@
+{
+  "requestPayload": {
+    "name": "shub",
+    "email": "shub@gmail.com",
+    "gender": "Female",
+    "status": "active"
+  }
+}

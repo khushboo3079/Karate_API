@@ -1,0 +1,22 @@
+{
+   "emailBusinessValidationreq":{
+      "name":"Kannan Kaniyar V456",
+      "email":"v_kaniyar_kannan@douglas.test",
+      "gender":"female",
+      "status":"active"
+   },
+   "emailBusinessValidationResponse":{
+      "field":"email",
+      "message":"has already been taken"
+   },
+   "statusBusinessValidationreq":{
+      "name":"Kannan Kaniyar V",
+      "email":"B@douglas.test",
+      "gender":"female",
+      "status":"selactive"
+   },
+   "stausBusinessValidationResponse":{
+      "field":"status",
+      "message":"can't be blank"
+   }
+}

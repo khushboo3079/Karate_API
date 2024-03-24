@@ -1,0 +1,22 @@
+{
+  "SchemaValidationreq": {
+    "name": "Kannan Kaniyar V456",
+    "email": "Bhutest@hu.com@ghu",
+    "gender": "female",
+    "status": "active"
+  },
+  "SchemaValidationResponse": {
+    "field": "email",
+    "message": "is invalid"
+  },
+  "SchemaValidationreqgender": {
+    "name": "Kannan Kaniyar V456",
+    "email": "Bhuteshut@hu.com",
+    "gender": "femal678e",
+    "status": "Active"
+  },
+  "SchemaValidationResponsegender": {
+    "field": "gender",
+    "message": "can't be blank, can be male of female"
+  }
+}
